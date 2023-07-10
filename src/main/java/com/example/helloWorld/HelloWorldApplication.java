@@ -10,6 +10,7 @@ public class HelloWorldApplication {
 		SpringApplication.run(HelloWorldApplication.class, args);
 		System.out.println("version2");
 		System.out.println("IDEA helloWorld version1");
+		//master 修改
 		System.out.println("IDEA helloWorld version2");
 	}
 
